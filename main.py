@@ -32,3 +32,13 @@ def get_all_wishes():
     return {
         "wish": wishes}
 
+
+
+
+
+
+
+
+
+print("Саня лох")
+
